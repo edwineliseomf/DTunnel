@@ -115,10 +115,10 @@ class RegisterModalSuccess {
                             <b>
                             <ul class="mt-4">
                                 <li>
-                                    Contactó: <a href="https://t.me/DiegoPintoTM" class="text-reset">@DiegoPintoTM</a>
+                                    Contactó: <a href="https://t.me/FabianSV1" class="text-reset">@FabianSV1</a>
                                 </li>
                                 <li>
-                                    Web: <a href="https://www.diegopintoteam.com" class="text-reset">www.diegopintoteam.com</a>
+                                    Web: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=edwineliseomf@gmail.com" class="text-reset">paypal</a>
                                 </li>
                             </ul>
                         </div>
